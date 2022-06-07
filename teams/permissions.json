@@ -1,0 +1,11 @@
+{
+	"description": "Microsoft Teams",
+	"maintainer": "Liam Gammon",
+	"executable": "/usr/bin/msteams",
+	"basic-common-permissions": true,
+	"stateful-home": false,
+	"gui": {"clipboard": true, "system-tray": true, "cursors": true},
+	"sound-card": true,
+	"webcam": true,
+	"allow-network-access": true
+}
